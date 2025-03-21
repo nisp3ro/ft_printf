@@ -1,4 +1,4 @@
-# 📚 ft_printf
+# 📚 ft_printf 125/100
 
 Second project of the 42's Cursus.
 
